@@ -1,0 +1,94 @@
+/******TAG Selectors******/
+h1 {
+  font-family: sans-serif;
+}
+
+h3 {
+  font-family: sans-serif;
+}
+
+img {
+  border-color: #dfdfdf;
+}
+
+body {
+  background-color: #393e46;
+  color: #dfdfdf;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #dfdfdf;
+  border-width: 5px;
+  width: 5%;
+}
+
+p {
+  font-family: tahoma, sans-serif;
+}
+
+a {
+  color: #dfdfdf;
+  text-decoration: none;
+}
+
+a:hover {
+  color: gold;
+}
+
+div {
+  width: 100px;
+  border: 5px #dfdfdf;
+  border-style: dotted;
+  padding: 20;
+  margin: 0;
+}
+
+td {
+  font-family: tahoma, sans-serif;
+}
+/******CLASS Selectors******/
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.joe {
+  margin-left: 0;
+}
+
+.Steinsberg {
+  margin-left: 0;
+
+}
+
+.info {
+  width: 100%;
+}
+
+.rundown {
+  width: 50%;
+}
+
+.rundown2 {
+  width: 50%
+}
+
+.middle {
+  width: 95%;
+  margin-left: auto;
+
+}
+
+.gj {
+  margin-left: auto;
+  margin-right: auto;
+  width: 44%;
+}
+
+
+.george {
+  margin-left: auto;
+  text-decoration: line-through;
+}
